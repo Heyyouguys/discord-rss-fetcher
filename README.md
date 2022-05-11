@@ -17,13 +17,9 @@ A Discord bot to post the latest articles from an RSS feed into a channel, optio
 - You want to stay up to date with an RSS feed
 - You want your Discord server to be notified of events via an RSS feed
 
-## Community instance
-A community member, [Oliver4888](https://github.com/oliver4888), is kindly offering public hosts of my Discord bots for other community members. If you are interested in using this community-provided instance, you can find more at https://bots.ol48.uk/.  
-Please note that I cannot personally verify or take responsibility for the integrity of a community-provided bot instance.
-
 ## Getting started
-RSS Fetcher needs to be deployed before you can invite it to your Discord server. Please see [my written deployment guide](./deployment.md) or [video tutorial](https://www.youtube.com/watch?v=DjQayKgcjGM) which can guide you through deployment even if you are a beginner.  
-Once you have deployed RSS Fetcher then return here to follow the Discord setup instructions below.  
+Role Assigner needs to be deployed before you can invite it to your Discord server. Please see [my written deployment guide](./deployment.md) for deployment instructions.  
+Once you have deployed the bot then return here to follow the Discord setup instructions below.  
 
 This button can be used for following the Heroku deployment steps.
 

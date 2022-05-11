@@ -2,11 +2,6 @@
 
 #  Discord bot deployment
 
-**Attention!** This guide may look scary because it is long, but this is just because it covers 3 different deployment methods for different expertise levels.  
-If you find long guides scary please watch [my tutorial video on YouTube](https://www.youtube.com/watch?v=DjQayKgcjGM) for a step-by-step demonstration instead.
-
-Continue reading for a written overview.
-
 ## Choosing a deployment method
 
 There are 3 supported deployment options depending on your level of experience and need for customisation. If you don't know what you are doing you only need to read the beginner guide.
